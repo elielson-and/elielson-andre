@@ -1,8 +1,7 @@
 ### Elielson André
 
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-
-<lottie-player src="https://assets10.lottiefiles.com/packages/lf20_w51pcehl.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
+<iframe src="https://embed.lottiefiles.com/animation/63487"></iframe>
 
 
 <div>
