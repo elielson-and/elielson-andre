@@ -1,6 +1,6 @@
 ### Elielson André
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
 <iframe src="https://embed.lottiefiles.com/animation/63487"></iframe>
 
 
