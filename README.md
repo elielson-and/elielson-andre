@@ -2,7 +2,7 @@
 
 
 <video width="320" height="240" controls>
-  <source src="https://lottiefiles.com/63487-programming-computer" type="video/mp4">
+  <source src="https://assets10.lottiefiles.com/packages/lf20_w51pcehl.json" type="video/mp4">
 </video>
 
 <div>
