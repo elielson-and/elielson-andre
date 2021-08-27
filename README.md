@@ -1,7 +1,9 @@
 ### Elielson André
 
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
 <lottie-player src="https://assets10.lottiefiles.com/packages/lf20_w51pcehl.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
+
 
 <div>
   <a href="https://github.com/elielson-andre">
@@ -11,7 +13,6 @@
   
  <div style="display: inline_block"><br>
    <h2>SKILLS</h2><br>
-  <img align="center" alt="Rafa-Js" height="30" width="30" src="https://assets10.lottiefiles.com/packages/lf20_w51pcehl.json">
   <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg">
   <img align="center" alt="Rafa-Js" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
