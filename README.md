@@ -1,8 +1,6 @@
 ### Hi, my name's Elielsn and here you can see some work I did😉
 
-<div  width="100" height="70" style="background-color: blue;">
-  
-</div>
+
 
 <div>
   <a href="https://github.com/elielson-andre">
