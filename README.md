@@ -10,7 +10,7 @@
   
  <div style="display: inline_block"><br>
    <h2>⚡Stacks </h2><br>
-   <img align="center" alt="Elielson-php" height="30" width="40" src="https://pngimg.com/uploads/php/small/php_PNG23.png">
+   <img align="center" alt="Elielson-php" height="30" width="30" src="https://pngimg.com/uploads/php/small/php_PNG23.png">
    <img align="center" alt="Elielson-laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
    <img align="center" alt="Elielson-lumen" height="30" width="20" src="https://seeklogo.com/images/L/lumen-logo-3B3EF36866-seeklogo.com.png">
    
