@@ -1,4 +1,4 @@
-### Seja bem-vindo(a)! 👋
+### 🔹Seja bem-vindo(a)! 👋
 
 
 
@@ -9,7 +9,7 @@
 </div>
   
  <div style="display: inline_block"><br>
-   <h2>Stacks </h2><br>
+   <h2>🔹 Stacks </h2><br>
    <img align="center" alt="Elielson-laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
    <img align="center" alt="Elielson-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
    <img align="center" alt="Elielson-composer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg">
