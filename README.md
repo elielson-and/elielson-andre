@@ -21,7 +21,7 @@
   <img align="center" alt="Elielson-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Elielson-sqlserver" height="30" width="40" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png">
   
-  <img align="center" alt="Elielson-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Elielson-linux" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/518/518713.png">
 
   ##
   
